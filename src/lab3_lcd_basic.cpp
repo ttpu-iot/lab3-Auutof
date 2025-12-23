@@ -37,7 +37,7 @@ void setup() {
   delay(1000);
   
   Serial.println("\n===== LCD Basic Example =====");
-  Serial.println("Your Name, Lab 3 - LCD Basic");
+  Serial.println("Jaloliddin, Lab 3 - LCD Basic");
   
   // Initialize LCD
   int status = lcd.begin(LCD_COLS, LCD_ROWS);
